@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Devanarayan | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        section {
+            margin: 20px;
+            padding: 20px;
+            background: #fff;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            padding: 10px;
+            position: relative;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Devanarayan</h1>
+        <p>Tech Enthusiast & Debugging Expert</p>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am passionate about coding, debugging, and exploring new technologies. I enjoy solving problems and optimizing code efficiency.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Debugging</li>
+            <li>Problem-Solving</li>
+            <li>Software Development</li>
+            <li>Tech Enthusiasm</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Coming soon...</p>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: your.email@example.com</p>
+        <p>GitHub: <a href="#">github.com/devanarayan</a></p>
+        <p>LinkedIn: <a href="#">linkedin.com/in/devanarayan</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Devanarayan. All rights reserved.</p>
+    </footer>
+</body>
+</html>
